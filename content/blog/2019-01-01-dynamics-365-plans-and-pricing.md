@@ -9,24 +9,25 @@ author =" Nidhi Patel"
 views = "1k"
 likes = "97"
 postdate = "January, 01st 2019"
-blogimage1 = "/images/blog8.jpg"
-blogimage2 = "/images/dynamics-365-plans-and-pricing.jpg"
+blogimage1 = "images/blog8.jpg"
+blogimage2 = "images/dynamics-365-plans-and-pricing.jpg"
 blogsummary = "Microsoft sells Dynamics 365 in 4 different plans. They are- 1) Dynamics 365 plan, 2) Customer Engagement Plan, 3) Unified Operation Plan, and, 4) Separate Applications."
-authorimage = "/images/author2.jpg"
+authorimage = "images/author2.jpg"
 authorintroduction = "Nidhi Patel is a Microsoft certified for Dynamics 365 functional consultant. She began writing while still a college student. Along with her being technically sound, her hobbies include travelling and reading."
 tags = ["dynamics", "microsoft"]
 +++
+
 Microsoft sells Dynamics 365 in 4 different plans:
 
-•	Dynamics 365 plan
+• Dynamics 365 plan
 
-•	Customer Engagement Plan
+• Customer Engagement Plan
 
-•	Unified Operation Plan
+• Unified Operation Plan
 
-•	Separate Applications
+• Separate Applications
 
-<img src="/images/dynamics-365-plans-and-pricing2.jpg" class="img-fluid mb-4">
+<img src="images/dynamics-365-plans-and-pricing2.jpg" class="img-fluid mb-4">
 
 **Customer Engagement Plan:**
 
@@ -34,9 +35,9 @@ This plan includes apps that are useful for Customer Relationship Management (CR
 
 The new Dynamics 365 for Marketing has some limitations:
 
-•	If the Customer Engagement plan purchased has 10 or more users the Marketing app is included with no additional charges for 2,000 contacts.
+• If the Customer Engagement plan purchased has 10 or more users the Marketing app is included with no additional charges for 2,000 contacts.
 
-•	If the Customer Engagement plan purchased has fewer than 10 users the Marketing app costs an additional $750 per month for 10,000 contacts.
+• If the Customer Engagement plan purchased has fewer than 10 users the Marketing app costs an additional $750 per month for 10,000 contacts.
 
 You also get access to Microsoft social engagement and Microsoft PowerApps with this plan.
 

@@ -2,7 +2,7 @@ baseURL = 'https://ranjeetbarsa.github.io'
 languageCode = 'en-us'
 title = 'Atcults - sculpting online presense'
 paginate = 6
-staticDir = "/static/
+staticDir = 'static'
 [permalinks]
   blog= '/:year/:month/:day/:title'
 [params]

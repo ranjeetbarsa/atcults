@@ -9,10 +9,10 @@ author = "Viral Jani"
 views = "18k"
 likes = "100"
 postdate = "November, 30th 2018"
-blogimage1 = "/images/blog2.jpg"
-blogimage2 = "/images/secret-unveil-How-social-media-marketing-can-help-you-take-your-business-to-the-next-level.jpg"
+blogimage1 = "images/blog2.jpg"
+blogimage2 = "images/secret-unveil-How-social-media-marketing-can-help-you-take-your-business-to-the-next-level.jpg"
 blogsummary = "It can be said that the common buzzword for marketers these days is “social media marketing”. These marketers normally aim to optimise their online strategy and the conversion rate. It is rapidly becoming the.."
-authorimage = "/images/abc.jpg"
+authorimage = "images/abc.jpg"
 authorintroduction = "Viral Jani is a tech journalist based in India. She carries books with her to social events and enjoys the finer things in life, like poorly executed puns and real fireplaces. If you spell her name wrong, she will spell yours wrong."
 tags = ["digital","e-commerce"]
 +++
@@ -31,7 +31,7 @@ tags = ["digital","e-commerce"]
 
 <p class=" text-justify inner-blog-content mb-4">Serving effective/satisfying customer services is the base level of any business, and they target best mediums by which they can extract customer insights easily. Social media help the marketers and business owners to have a firm grip over this issue. Comments from the customers - about their used products from your business, are the essential point that has to be kept in mind for future projects and further developments.</p>
 
-<img src="/images/secret-unveil-How-social-media-marketing-can-help-you-take-your-business-to-the-next-level2.jpg" class="img-fluid mb-4">
+<img src="images/secret-unveil-How-social-media-marketing-can-help-you-take-your-business-to-the-next-level2.jpg" class="img-fluid mb-4">
 
 **Customer engagement and enhanced brand loyalty:**
 
@@ -47,4 +47,3 @@ tags = ["digital","e-commerce"]
 
 <p class=" text-justify conclusion pl-5 pr-5 pt-4 pb-4">Conclusion:<br><br>
 By this time it is expected that you have understood how social media can take your business to the cloud number nine. As the days are passing by, marketing is getting digitalised and social media has become the next big “medium” through which growing as well as successful organisations are making their business grow expeditiously. Avoiding this medium will be disastrous, to say the least!</p>
-

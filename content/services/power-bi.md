@@ -14,10 +14,10 @@ considerpointt2= "Connect to your data, wherever it is"
 considerpointt3= "Prep and model your data with ease"
 considerpointt4= "Provide advanced analytics with the familiarity of Excel"
 considerpointt5= "Create interactive reports customized for your business"
-img1= "/images/PW-img1.jpg"
-img2= "/images/PW-img2.jpg"
-img3= "/images/PW-img3.jpg"
-img4= "/images/PW-img4.jpg"
+img1= "images/PW-img1.jpg"
+img2= "images/PW-img2.jpg"
+img3= "images/PW-img3.jpg"
+img4= "images/PW-img4.jpg"
 heading1= "Data Visualization and Reporting"
 heading2= "Data Discovery and Aggregation"
 heading3= "Scorecards and Dashboards"
@@ -28,6 +28,7 @@ content3= "The benefits of dashboards and scorecards easily outweigh the costs a
 content4= "<b>Translating consumer insights and big data into concrete initiatives that drive above-market growth.</b> A company’s ability to drive above-market growth hinges on the depth of its consumer insights and how well it translates those insights into effective action. To develop deep customer understanding, we employ a range of quantitative and qualitative marketing research approaches plus big data techniques that are both innovative and pragmatic. "
 
 +++
+
 <p class="text-justify">Power BI is a business analytics service that delivers insights to enable fast, informed decisions.
 Transform data into stunning visuals and share them with colleagues on any device.
 Visually explore and analyze data—on-premises and in the cloud—all in one view.
@@ -35,4 +36,3 @@ Collaborate on and share customized dashboards and interactive reports.
 Scale across your organization with built-in governance and security.</p>
 
 <iframe width="930" height="500" src="https://www.youtube.com/embed/_OOyJfszJXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
